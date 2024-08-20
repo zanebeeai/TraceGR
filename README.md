@@ -26,7 +26,14 @@ The line element for Alcubierre renders is
 $ds^2 = -c^2 dt^2 + (dx - v_s f(r) dt)^2 + dy^2 + dz^2$
 
 
+
 ### 3D Moving Alcubierre Warp Drive (Alcubierre Metric)
+
+This is a raytraced video for an Alcubierre Warp Drive
+
+<div align="center">
+  <img src="https://github.com/zanebeeai/TraceGR/blob/main/Results/AWD/bg4/bg4WARPDRIVE_final.gif" height="300">
+</div>
 
 
 ## Algorithms
