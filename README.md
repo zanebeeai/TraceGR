@@ -38,7 +38,7 @@ This is a raytraced video for an Alcubierre Warp Drive
 
 ## Algorithms
 
-Key algorithms are giving in the ```~/Functions/``` folder. Some examples include solving the metric tensor from a line element, solving the Christoffel symbols and solving geosdesics.
+Key algorithms are given in the ```~/Functions/``` folder. Some examples include solving the metric tensor from a line element, solving the Christoffel symbols and solving geodesics.
 
 ## How to run
 
